@@ -6,6 +6,6 @@ package TetsFile;
  */
 public class JAVA {
     public static void main(String[] args) {
-
+12121
     }
 }
